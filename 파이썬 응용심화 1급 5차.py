@@ -1,6 +1,7 @@
 # 문제 1
 
 '''
+rtey
 n=int(input())
 s=[]
 cnt=0
