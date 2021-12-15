@@ -1,7 +1,7 @@
 # 문제 1
 
 '''
-rtey
+rtey///
 n=int(input())
 s=[]
 cnt=0
